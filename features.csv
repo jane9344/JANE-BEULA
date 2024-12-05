@@ -1,0 +1,11 @@
+filename,length,function_count,modifier_count,selfdestruct_count,require_count,fallback_count
+contract1.sol,150,5,2,0,3,1
+contract2.sol,200,7,1,1,5,0
+contract3.sol,120,4,0,0,2,1
+contract4.sol,300,10,3,0,6,1
+contract5.sol,250,8,2,1,4,0
+contract6.sol,180,6,1,0,4,1
+contract7.sol,220,9,2,0,5,1
+contract8.sol,140,5,1,0,3,0
+contract9.sol,280,10,3,1,7,1
+contract10.sol,160,4,1,0,2,0
